@@ -1,0 +1,13 @@
+.form{
+    background-color: #2224;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.loginbtn{
+    
+}
+.button{
+    text-align: center;
+}
